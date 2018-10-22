@@ -13,3 +13,4 @@ git clone reponame
 git pull origin master
 #git add .
 
+gituser -> staging -> commit 
