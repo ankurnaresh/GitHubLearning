@@ -1,0 +1,20 @@
+git config --global user.email "ankur.naresh@outlook.com"
+git config --global user.name "ankurnaresh"
+
+commands
+
+git init
+git status
+git add filename || -A
+git commit -m "msg"
+git remote add origin reponame
+git push origin master
+git clone reponame
+git pull origin master
+#git add .
+#git add .
+#git add .
+#git add .
+#git add .
+
+gituser -> staging -> commit 
