@@ -6,7 +6,7 @@ commands
 git init
 git status
 git add filename || -A
-git commit -m "msg" ##
+git commit -m "msg"
 git remote add origin reponame
 git push origin master
 git clone reponame
